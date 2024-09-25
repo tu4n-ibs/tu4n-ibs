@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ductruong.com/images/about/night-code.gif" width="100"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100"/>
 </div>
 <h1 align="center">Van Tuan Vuong</h1>
 <p align="center">
